@@ -1,0 +1,17 @@
+C:\Users\fvg\Desktop\Visual Studio\Entidades\Entidades\bin\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fvg\Desktop\Visual Studio\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\Entidades\Entidades\obj\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\bin\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\obj\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\Entidades\obj\Debug\Entidades.pdb
+E:\TP_1\Entidades\bin\Debug\Entidades.dll
+E:\TP_1\Entidades\bin\Debug\Entidades.pdb
+E:\TP_1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\TP_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\TP_1\Entidades\obj\Debug\Entidades.dll
+E:\TP_1\Entidades\obj\Debug\Entidades.pdb

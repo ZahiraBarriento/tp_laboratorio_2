@@ -1,0 +1,104 @@
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Form1.resources
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\fvg\Desktop\Visual Studio\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\fvg\Desktop\Visual Studio\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Familia\Downloads\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Familia\Desktop\Trabajo practico n1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Familia\Desktop\Barriento.Zahira.2A\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\Entidades.dll
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\Entidades.pdb
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+K:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Segundo cuatrimestre - C#\TPs\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\TP_1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\TP_1\MiCalculadora\bin\Debug\Entidades.dll
+E:\TP_1\MiCalculadora\bin\Debug\Entidades.pdb
+E:\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
