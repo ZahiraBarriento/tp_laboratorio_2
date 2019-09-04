@@ -20,3 +20,8 @@ C:\Users\Ginette\Desktop\Trabajos Practicos\TP_1\Entidades\bin\Debug\Entidades.p
 C:\Users\Ginette\Desktop\Trabajos Practicos\TP_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Ginette\Desktop\Trabajos Practicos\TP_1\Entidades\obj\Debug\Entidades.dll
 C:\Users\Ginette\Desktop\Trabajos Practicos\TP_1\Entidades\obj\Debug\Entidades.pdb
+E:\tp_laboratorio_2\TP_1\Entidades\bin\Debug\Entidades.dll
+E:\tp_laboratorio_2\TP_1\Entidades\bin\Debug\Entidades.pdb
+E:\tp_laboratorio_2\TP_1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\tp_laboratorio_2\TP_1\Entidades\obj\Debug\Entidades.dll
+E:\tp_laboratorio_2\TP_1\Entidades\obj\Debug\Entidades.pdb

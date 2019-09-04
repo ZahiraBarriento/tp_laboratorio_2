@@ -102,21 +102,21 @@ namespace Entidades
                 retorno = Convert.ToString(decimalBin);
             }
 
-            else if(Convert.ToDouble(binario) == 0)
+            else if (Convert.ToDouble(binario) == 0)
             {
                 retorno = "0";
             }
 
             else
             {
-                binario = "Valos inválido";
+                retorno = "Valor inválido";
             }
 
             return retorno;
         }
 
         /// <summary>
-        /// Metodo que convertirá un número binadecimal a binario.
+        /// Metodo que convertirá un número decimal a binario.
         /// </summary>
         /// <param name="numero"> Numero a ser pasado a binario </param>
         /// <returns> Retornara el numero pasado a binario, si no posible retornará "Valor inválido". </returns>
@@ -124,17 +124,35 @@ namespace Entidades
         {
             string cadena = "";
 
-            while (numero > 0)
+            int aux = Convert.ToInt32(numero);//Tomo solo la parte entera del resultado
+
+            if(aux > 0)
             {
-                cadena = (numero % 2).ToString() + cadena; //Tengo que convertir a cadena o sino devolvera otra cosa
-                numero = (int)numero / 2;
+                while (aux > 0)
+                {
+                    cadena = (aux % 2).ToString() + cadena;
+                    aux = (int)aux / 2;
+                }
+            }
+
+            else
+            {
+                if (aux == 0)
+                {
+                    cadena = "0";
+                }
+
+                else
+                {
+                    cadena = "Valor inválido";
+                }
             }
 
             return cadena;
         }
 
         /// <summary>
-        /// Metodo que convertirá un número binadecimal a binario.
+        /// Metodo que convertirá un número decimal a binario.
         /// </summary>
         /// <param name="numero"> Numero a ser pasado a binario </param>
         /// <returns> Retornara el numero pasado a binario, si no posible retornará "Valor inválido". </returns>

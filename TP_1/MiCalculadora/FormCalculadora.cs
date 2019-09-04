@@ -69,7 +69,13 @@ namespace MiCalculadora
                 resultado = "Valor invalido";
                 btnConvertirADecimal.Enabled = false;//Cancelo las opciones convertir
                 btnConvertirABinario.Enabled = false;
+            }
 
+            if (resultado == "Valor inválido")
+            {
+                resultado = "Valor invalido";
+                btnConvertirADecimal.Enabled = false;//Cancelo las opciones convertir
+                btnConvertirABinario.Enabled = false;
             }
 
             btnConvertirADecimal.Enabled = true;
@@ -115,8 +121,8 @@ namespace MiCalculadora
             txtNumero2.Clear();
             cmbOperador.ResetText();
             lblResultado.ResetText();
-            btnConvertirADecimal.Enabled = true;
-            btnConvertirABinario.Enabled = true;
+            btnConvertirADecimal.Enabled = false;
+            btnConvertirABinario.Enabled = false;
         }
 
         /// <summary>
