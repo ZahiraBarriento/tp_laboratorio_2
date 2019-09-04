@@ -76,7 +76,7 @@ namespace Entidades
 
             return dbNumero;
         }
-
+        
         /// <summary>
         /// Metodo que convertirá un número binario a decimal.
         /// </summary>
@@ -84,31 +84,32 @@ namespace Entidades
         /// <returns> Retornara el numero pasado a decimal, si no posible retornará "Valor inválido". </returns>
         public static string BinarioDecimal(string binario)
         {
-
-            int numero = binario.Length;
+            int numero = binario.Length; //Calculo el tamaño del string recibido
             double decimalBin = 0;
             string retorno = "0";
             int i;
             byte n;
 
-            if (Convert.ToDouble(binario) >= 0)
+            if (Convert.ToDouble(binario) >= 0) //Si el tamaño es mayor a cero entra
             {
-                for (i = 1; i <= numero; i++)
+                for (i = 1; i <= numero; i++) //Recorro el string recibido
                 {
                     n = byte.Parse(binario.Substring(numero - i, 1));
-
                     if (n == 1)
-                    {
                         decimalBin += System.Math.Pow(2, i - 1);
-                    }
                 }
 
                 retorno = Convert.ToString(decimalBin);
             }
 
+            else if(Convert.ToDouble(binario) == 0)
+            {
+                retorno = "0";
+            }
+
             else
             {
-                retorno = "Valor invalido";
+                binario = "Valos inválido";
             }
 
             return retorno;
@@ -123,15 +124,10 @@ namespace Entidades
         {
             string cadena = "";
 
-            double aux;
-
-            aux = Math.Floor(numero);
-
-            if (aux > 0)
+            while (numero > 0)
             {
-                cadena = (aux % 2).ToString() + cadena;
-                aux = (int)aux / 2;
-
+                cadena = (numero % 2).ToString() + cadena; //Tengo que convertir a cadena o sino devolvera otra cosa
+                numero = (int)numero / 2;
             }
 
             return cadena;
@@ -146,7 +142,7 @@ namespace Entidades
         {
             return DecimalBinario(Convert.ToDouble(numero));
         }
-
+        
         #endregion
 
         #region "Operadores"
