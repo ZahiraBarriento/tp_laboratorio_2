@@ -1,0 +1,25 @@
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\TestUnitarios.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\asdsad\TP_3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+F:\asdsad\TP_3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+F:\asdsad\TP_3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+F:\asdsad\TP_3\TestUnitarios\obj\Debug\TestUnitarios.dll
+F:\asdsad\TP_3\TestUnitarios\obj\Debug\TestUnitarios.pdb
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Archivos.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Clases Instanciales.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Excepciones.dll
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Archivos.pdb
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Clases Instanciales.pdb
+F:\asdsad\TP_3\TestUnitarios\bin\Debug\Excepciones.pdb

@@ -1,0 +1,16 @@
+F:\asdsad\TP_3\VistaConsola\bin\Debug\VistaConsola.exe.config
+F:\asdsad\TP_3\VistaConsola\bin\Debug\VistaConsola.exe
+F:\asdsad\TP_3\VistaConsola\bin\Debug\VistaConsola.pdb
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Clases Abstractas.dll
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Clases Instanciales.dll
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Excepciones.dll
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Archivos.dll
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Clases Abstractas.pdb
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Clases Instanciales.pdb
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Excepciones.pdb
+F:\asdsad\TP_3\VistaConsola\bin\Debug\Archivos.pdb
+F:\asdsad\TP_3\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+F:\asdsad\TP_3\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+F:\asdsad\TP_3\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+F:\asdsad\TP_3\VistaConsola\obj\Debug\VistaConsola.exe
+F:\asdsad\TP_3\VistaConsola\obj\Debug\VistaConsola.pdb

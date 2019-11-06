@@ -1,0 +1,13 @@
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Clases Instanciales.dll
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Clases Instanciales.pdb
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Archivos.dll
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Clases Abstractas.dll
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Excepciones.dll
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Archivos.pdb
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Clases Abstractas.pdb
+F:\asdsad\TP_3\Clases Instanciales\bin\Debug\Excepciones.pdb
+F:\asdsad\TP_3\Clases Instanciales\obj\Debug\Clases Instanciales.csprojAssemblyReference.cache
+F:\asdsad\TP_3\Clases Instanciales\obj\Debug\Clases Instanciales.csproj.CoreCompileInputs.cache
+F:\asdsad\TP_3\Clases Instanciales\obj\Debug\Clases Instanciales.csproj.CopyComplete
+F:\asdsad\TP_3\Clases Instanciales\obj\Debug\Clases Instanciales.dll
+F:\asdsad\TP_3\Clases Instanciales\obj\Debug\Clases Instanciales.pdb

@@ -1,0 +1,12 @@
+H:\Barriento.Zahira.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+H:\Barriento.Zahira.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+H:\Barriento.Zahira.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+H:\Barriento.Zahira.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+H:\Barriento.Zahira.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+H:\Barriento.Zahira.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\asdsad\TP_3\Excepciones\bin\Debug\Excepciones.dll
+F:\asdsad\TP_3\Excepciones\bin\Debug\Excepciones.pdb
+F:\asdsad\TP_3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+F:\asdsad\TP_3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+F:\asdsad\TP_3\Excepciones\obj\Debug\Excepciones.dll
+F:\asdsad\TP_3\Excepciones\obj\Debug\Excepciones.pdb

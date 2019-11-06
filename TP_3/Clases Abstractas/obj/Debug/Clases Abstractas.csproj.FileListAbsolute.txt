@@ -1,0 +1,18 @@
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+H:\Barriento.Zahira.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+F:\asdsad\TP_3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+F:\asdsad\TP_3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+F:\asdsad\TP_3\Clases Abstractas\bin\Debug\Excepciones.dll
+F:\asdsad\TP_3\Clases Abstractas\bin\Debug\Excepciones.pdb
+F:\asdsad\TP_3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+F:\asdsad\TP_3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+F:\asdsad\TP_3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+F:\asdsad\TP_3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+F:\asdsad\TP_3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
